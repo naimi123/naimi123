@@ -16,14 +16,14 @@
 
 ---
 
-### 💻 About Me
-- 🔭 I’m currently building and improving projects using **PHP**, **Laravel**, **React.js**, and modern web technologies.
-- 💡 Passionate about creating responsive, dynamic, and user-friendly web applications from frontend to backend.
-- 🌱 Constantly exploring new tools, frameworks, and developer workflows.
+ About Me
+-  I’m currently building and improving projects using **PHP**, **Laravel**, **React.js**, and modern web technologies.
+-  Passionate about creating responsive, dynamic, and user-friendly web applications from frontend to backend.
+-  Constantly exploring new tools, frameworks, and developer workflows.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+ Tech Stack & Tools
 <div align="center">
   <!-- Animated Rotating / Floating Tech Icons Grid -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506587dd.gif" width="150" align="right" alt="Animation" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 📊 GitHub Stats
+ GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naimi123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
@@ -55,7 +55,7 @@
 
 ---
 
-### 🌐 Connect with Me
+ Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/mustapha-naimi-b832aa386" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
