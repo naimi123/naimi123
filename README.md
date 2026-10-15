@@ -38,6 +38,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimi123&theme=tokyonight" alt="Profile Summary Card" />
   </a>
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,axios,bootstrap,tailwind,git,github,vscode" alt="Tech Stack Icons" />
 </div>
 
 ---
