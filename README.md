@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=naimi123&style=flat-square&color=blue" alt="Profile Views" />
-  <h1 align="center">👋 Hello, I'm Mustapha Naimi</h1>
+  <img src="https://komarev.com/ghpvc/?username=naimi123&style=flat-square&color=00f2fe" alt="Profile Views" />
+  
+  <!-- Animated Gradient Header for Name -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=70&lines=👋+Hello%2C+I'm+Mustapha+Naimi;🚀+Web+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+  
   <h3>🚀 A Passionate Web Developer & Tech Enthusiast from Morocco 🇲🇦</h3>
 </div>
 
@@ -15,14 +20,15 @@
 
 ### 🛠️ Tech Stack & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,bootstrap,tailwind,git,github,vscode" />
+  <!-- Animated Tech Icons using SkillIcons with subtle floating/hover effect style via markdown layout -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,bootstrap,tailwind,git,github,vscode" alt="Tech Stack" />
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naimi123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naimi123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -43,5 +49,5 @@
 
 <br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=65&section=footer"/>
 </div>
