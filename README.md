@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=naimi123&style=flat-square&color=00f2fe" alt="Profile Views" />
   
   <!-- Animated Gradient Header for Name -->
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/naimi123">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=70&lines=👋+Hello%2C+I'm+Mustapha+Naimi;🚀+Web+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
   </a>
   
@@ -20,8 +20,19 @@
 
 ### 🛠️ Tech Stack & Tools
 <div align="center">
-  <!-- Animated Tech Icons using SkillIcons with subtle floating/hover effect style via markdown layout -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,bootstrap,tailwind,git,github,vscode" alt="Tech Stack" />
+  <!-- Animated Rotating / Floating Tech Icons Grid -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506587dd.gif" width="150" align="right" alt="Animation" />
+  
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,bootstrap,tailwind,git,github,vscode" alt="Tech Stack Icons" />
+  </p>
+</div>
+
+<div align="center">
+  <!-- Another style of animated tech cloud if you prefer continuous movement -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimi123&theme=tokyonight" alt="Profile Summary Card" />
+  </a>
 </div>
 
 ---
