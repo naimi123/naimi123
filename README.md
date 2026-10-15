@@ -11,13 +11,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=70&lines=👋+Hello%2C+I'm+Mustapha+Naimi;+Web+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
   </a>
   
-  <h3> A Passionate Web Developer & Tech Enthusiast from Morocco 🇲🇦</h3>
+  <h3>A Passionate Web Developer & Tech Enthusiast from Morocco 🇲🇦</h3>
 </div>
 
 ---
 
 ### 💻 About Me
-- 🔭 I’m currently building and improving projects using **PHP**, **React.js**, and modern web technologies.
+- 🔭 I’m currently building and improving projects using **PHP**, **Laravel**, **React.js**, and modern web technologies.
 - 💡 Passionate about creating responsive, dynamic, and user-friendly web applications from frontend to backend.
 - 🌱 Constantly exploring new tools, frameworks, and developer workflows.
 
@@ -38,7 +38,8 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimi123&theme=tokyonight" alt="Profile Summary Card" />
   </a>
- <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,axios,bootstrap,tailwind,git,github,vscode" alt="Tech Stack Icons" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,axios,bootstrap,tailwind,git,github,vscode" alt="Tech Stack Icons" />
 </div>
 
 ---
