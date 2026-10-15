@@ -27,3 +27,5 @@
 
 ### 📫 Connect with Me
 * 💼 **GitHub:** naimi123
+* 💼 **LinkedIn:** [Mustapha Naimi](https://ma.linkedin.com/in/mustapha-naimi)
+* ✉️ **Email:** naimimustaphak@gmail.com
