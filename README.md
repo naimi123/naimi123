@@ -1,4 +1,9 @@
 <div align="center">
+ <div align="center">
+  <a href="https://github.com/naimi123/naimi123">
+    <img src="https://komarev.com/ghpvc/?username=naimi123&style=for-the-badge&color=4158D0&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+</div>
  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:4158D0&height=120&section=header&text=Welcome%20To%20My%20Profile&fontSize=22&fontColor=00f2fe&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
   
   <!-- Animated Gradient Header for Name -->
