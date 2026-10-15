@@ -39,14 +39,14 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimi123&theme=tokyonight" alt="Profile Summary Card" />
   </a>
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,axios,bootstrap,tailwind,git,github,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naimi123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api? alt="GitHub Stats" />
 </div>
 
 <div align="center">
