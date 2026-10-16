@@ -1,7 +1,14 @@
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--  🕷️  naimi123 · Mustapha Naimi · Spiderweb Portfolio README        -->
+<!--  Save assets/banner.svg & assets/spiderweb-stack.svg in this repo -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
 <!-- ════════════════════ HEADER · DARK SPIDERWEB ════════════════════ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:e11d48,45:9f1239,100:000000&reversal=false" width="100%" alt="Dark crimson waving header"/>
+
+<img src="https://raw.githubusercontent.com/naimi123/naimi123/main/assets/banner.svg" width="100%" alt="Animated spiderweb banner with a realistic fast moving spider and glowing red eyes"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Mustapha+Naimi;Full-Stack+Web+Developer;Weaving+code+into+the+web+%F0%9F%95%B7%EF%B8%8F&font=JetBrains+Mono&weight=600&size=26&color=E11D48&center=true&vCenter=true&width=660&height=110&background=000000&pause=1300" alt="Typing SVG — Mustapha Naimi, Full-Stack Web Developer"/>
@@ -29,11 +36,15 @@
 
 ---
 
-<!-- ════════════════════ TECH STACK ════════════════════ -->
+<!-- ════════════════════ TECH STACK · SWINGING ON THE WEB ════════════════════ -->
 <h1 align="center">🕸️ Tech Stack — Caught in the Web</h1>
 
 <div align="center">
 
+<!-- 🕸️ Animated spiderweb: skills hanging inside a real web around a fast moving spider -->
+<img src="https://raw.githubusercontent.com/naimi123/naimi123/main/assets/spiderweb-stack.svg" width="100%" alt="Animated spiderweb with PHP, Laravel, React, JavaScript, MySQL and Git badges hanging on glowing threads around a fast realistic spider"/>
+
+<!-- 🧵 Woven badge grid -->
 <img src="https://img.shields.io/badge/PHP-12030A?style=for-the-badge&logo=php&logoColor=E11D48" alt="PHP"/>
 <img src="https://img.shields.io/badge/Laravel-12030A?style=for-the-badge&logo=laravel&logoColor=E11D48" alt="Laravel"/>
 <img src="https://img.shields.io/badge/React-12030A?style=for-the-badge&logo=react&logoColor=E11D48" alt="React"/>
@@ -52,7 +63,7 @@
 
 ---
 
-<!-- ════════════════════ GITHUB STATS ════════════════════ -->
+<!-- ════════════════════ GITHUB STATS · DARK / BLOOD-RED ════════════════════ -->
 <h1 align="center">🕸️ GitHub Stats — Caught in My Web</h1>
 
 <div align="center">
@@ -71,23 +82,25 @@
 
 <div align="center">
 
+<!-- 🔗 REPLACE "your-linkedin-username" with your real LinkedIn handle -->
 <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mustapha_Naimi-E11D48?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Mustapha_Naimi-E11D48?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Mustapha Naimi"/>
 </a>
 
+<!-- ✉️ REPLACE "your.email@example.com" with your real email -->
 <a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-Drop_me_a_thread-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Drop_me_a_thread-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mustapha Naimi"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ════════════════════ FOOTER ════════════════════ -->
+<!-- ════════════════════ FOOTER · WAVING CAPSULE ════════════════════ -->
 <div align="center">
 
 *Weaving the web, one thread at a time.* 🕷️🕸️
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:9f1239,100:e11d48&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:9f1239,100:e11d48&section=footer" width="100%" alt="Dark red waving capsule footer"/>
 
 </div>
