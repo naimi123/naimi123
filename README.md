@@ -22,15 +22,15 @@
 ---
 
 <!-- ══════════════ ABOUT ME · GOTHIC VIBE ══════════════ -->
-<h1 align="left">🕷️ About Me — The Web Weaver</h1>
+<h1 align="left"> About Me — The Web Weaver</h1>
 
 🕸️ **Full-Stack Web Developer** from 🇲🇦 **Morocco** — haunting the web with dark, immersive code.
 
-- 🕸️ Core stack: **PHP · Laravel · React.js** — the strongest threads in my web.
-- 🕷️ I also haunt with **JavaScript, MySQL, Git** and modern web tooling.
-- 🕯️ Obsessed with elegant architecture, creepy-crawly clean code, and blood-red details.
-- 🚪 From Morocco, building immersive experiences behind every dark door.
-- 🏚️ Currently crafting new haunted projects, thread by thread.
+-  Core stack: **PHP · Laravel · React.js** — the strongest threads in my web.
+-  I also haunt with **JavaScript, MySQL, Git** and modern web tooling.
+-  Obsessed with elegant architecture, creepy-crawly clean code, and blood-red details.
+-  From Morocco, building immersive experiences behind every dark door.
+-  Currently crafting new haunted projects, thread by thread.
 
 ---
 
@@ -47,7 +47,7 @@
 ---
 
 <!-- ══════════════ GITHUB STATS · BLOOD-RED ══════════════ -->
-<h1 align="center">🕸️ GitHub Stats — Echoes from the Crypt</h1>
+<h1 align="center"> GitHub Stats — Echoes from the Crypt</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naimi123&show_icons=true&hide_border=true&bg_color=000000&title_color=E11D48&text_color=E2E8F0&icon_color=E11D48&ring_color=9f1239" height="165" alt="GitHub stats"/>
@@ -61,7 +61,7 @@
 ---
 
 <!-- ══════════════ CONNECT WITH ME ══════════════ -->
-<h1 align="center">🕸️ Connect With Me — Knock at the Door</h1>
+<h1 align="center"> Connect With Me — Knock at the Door</h1>
 
 <div align="center">
 
@@ -82,7 +82,7 @@
 <!-- ══════════════ FOOTER · WAVING CAPSULE ══════════════ -->
 <div align="center">
 
-*Some doors are meant to be opened.* 🕷️🕸️
+*Some doors are meant to be opened.* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:9f1239,100:e11d48&section=footer" width="100%" alt="Blood-red waving capsule footer"/>
 
