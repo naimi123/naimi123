@@ -35,6 +35,7 @@
 <br/>
 <br/>
     <img src="https://img.shields.io/badge/axios-%23671ddf.svg?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
   </p>
 </div>
 
