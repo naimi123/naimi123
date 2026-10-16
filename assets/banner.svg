@@ -1,50 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800" width="100%" height="160" style="background:#000000; border-radius:0px;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="100%" height="160" style="background:#000000; border-radius:0px;">
   <defs>
     <radialGradient id="redGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#e11d48" stop-opacity="0.3"/>
+      <stop offset="0%" stop-color="#e11d48" stop-opacity="0.35"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
     <style>
-      @keyframes twinkle { 0%, 100% { opacity: 0.2; } 50% { opacity: 1; } }
-      @keyframes eyeGlow { 0%, 100% { opacity: 0.4; filter: drop-shadow(0 0 2px #e11d48); } 50% { opacity: 1; filter: drop-shadow(0 0 8px #ff1a42); } }
-      .star { animation: twinkle 3s infinite ease-in-out; }
-      .spider-eye { animation: eyeGlow 2.5s infinite ease-in-out; }
+      @keyframes twinkle { 
+        0%, 100% { opacity: 0.2; transform: scale(0.8); } 
+        50% { opacity: 1; transform: scale(1.2); } 
+      }
+      @keyframes eyeGlow { 
+        0%, 100% { opacity: 0.3; filter: drop-shadow(0 0 2px #e11d48); } 
+        50% { opacity: 1; filter: drop-shadow(0 0 10px #ff1a42); } 
+      }
+      @keyframes spiderCrawl {
+        0% { transform: translate(300px, 60px) rotate(-5deg); }
+        50% { transform: translate(500px, 75px) rotate(5deg); }
+        100% { transform: translate(300px, 60px) rotate(-5deg); }
+      }
+      @keyframes threadDrop {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(15px); }
+      }
+      .star { animation: twinkle 2.5s infinite ease-in-out; }
+      .spider-eye { animation: eyeGlow 0.8s infinite ease-in-out; }
+      .crawling-spider { animation: spiderCrawl 4.5s infinite ease-in-out; }
+      .hanging-thread { animation: threadDrop 3s infinite ease-in-out; transform-origin: top; }
     </style>
   </defs>
 
-  <!-- Background Glow -->
-  <circle cx="400" cy="80" r="250" fill="url(#redGlow)" />
+  <!-- Background Pure Black with Glow -->
+  <rect width="800" height="160" fill="#000000" />
+  <circle cx="400" cy="80" r="260" fill="url(#redGlow)" />
 
   <!-- Spiderweb Lines -->
-  <g stroke="#9f1239" stroke-width="0.8" opacity="0.4" fill="none">
-    <line x1="400" y1="80" x2="100" y2="0" />
-    <line x1="400" y1="80" x2="700" y2="0" />
-    <line x1="400" y1="80" x2="50" y2="80" />
-    <line x1="400" y1="80" x2="750" y2="80" />
-    <line x1="400" y1="80" x2="200" y2="160" />
-    <line x1="400" y1="80" x2="600" y2="160" />
-
-    <!-- Webs concentric -->
-    <path d="M 400 40 Q 430 60 440 80 Q 430 100 400 110 Q 370 100 360 80 Q 370 60 400 40 Z" />
-    <path d="M 400 15 Q 470 50 490 80 Q 470 130 400 145 Q 330 130 310 80 Q 330 50 400 15 Z" />
+  <g stroke="#9f1239" stroke-width="0.8" opacity="0.45" fill="none">
+    <line x1="400" y1="80" x2="80" y2="0" />
+    <line x1="400" y1="80" x2="720" y2="0" />
+    <line x1="400" y1="80" x2="20" y2="90" />
+    <line x1="400" y1="80" x2="780" y2="90" />
+    <line x1="400" y1="80" x2="150" y2="160" />
+    <line x1="400" y1="80" x2="650" y2="160" />
+    
+    <!-- Concentric Webs -->
+    <path d="M 400 35 Q 440 60 450 80 Q 440 105 400 120 Q 360 105 350 80 Q 360 60 400 35 Z" />
+    <path d="M 400 10 Q 480 45 510 80 Q 480 140 400 150 Q 320 140 290 80 Q 320 45 400 10 Z" />
   </g>
 
-  <!-- Twinkling Stars -->
-  <circle cx="150" cy="40" r="1.5" fill="#fff" class="star" style="animation-delay: 0.2s;" />
-  <circle cx="680" cy="50" r="2" fill="#e11d48" class="star" style="animation-delay: 1.2s;" />
-  <circle cx="250" cy="120" r="1" fill="#fff" class="star" style="animation-delay: 0.7s;" />
-  <circle cx="580" cy="110" r="1.5" fill="#fff" class="star" style="animation-delay: 2.1s;" />
+  <!-- Twinkling Red & White Stars -->
+  <circle cx="120" cy="30" r="1.5" fill="#fff" class="star" style="animation-delay: 0.2s;" />
+  <circle cx="280" cy="120" r="2" fill="#e11d48" class="star" style="animation-delay: 0.9s;" />
+  <circle cx="680" cy="40" r="2" fill="#fff" class="star" style="animation-delay: 1.4s;" />
+  <circle cx="550" cy="130" r="1.5" fill="#e11d48" class="star" style="animation-delay: 2.1s;" />
+  <circle cx="720" cy="110" r="1" fill="#fff" class="star" style="animation-delay: 0.5s;" />
 
-  <!-- Spider Silhouette with Glowing Eyes -->
-  <g transform="translate(400, 75)">
-    <!-- Legs -->
-    <path d="M0 0 Q -25 -20 -45 -10 M0 0 Q -25 -5 -40 15 M0 0 Q -20 10 -35 35 M0 0 Q -15 25 -25 50" stroke="#1f0408" stroke-width="2" fill="none" />
-    <path d="M0 0 Q 25 -20 45 -10 M0 0 Q 25 -5 40 15 M0 0 Q 20 10 35 35 M0 0 Q 15 25 25 50" stroke="#1f0408" stroke-width="2" fill="none" />
-    <!-- Body -->
-    <ellipse cx="0" cy="12" rx="8" ry="11" fill="#090103" />
-    <ellipse cx="0" cy="2" rx="6" ry="7" fill="#120205" />
-    <!-- Glowing Red Eyes -->
-    <circle cx="-2" cy="0" r="1.2" fill="#ff1a42" class="spider-eye" />
-    <circle cx="2" cy="0" r="1.2" fill="#ff1a42" class="spider-eye" style="animation-delay: 0.5s;" />
+  <!-- Hanging Thread from Top -->
+  <g class="hanging-thread">
+    <line x1="180" y1="0" x2="180" y2="45" stroke="#9f1239" stroke-width="1" stroke-dasharray="2 2" opacity="0.7"/>
+    <!-- Small Spider hanging -->
+    <g transform="translate(180, 48) scale(0.6)">
+      <ellipse cx="0" cy="6" rx="5" ry="7" fill="#090103" />
+      <circle cx="0" cy="0" r="4" fill="#120205" />
+      <circle cx="-1.5" cy="-1" r="1" fill="#ff1a42" class="spider-eye" />
+      <circle cx="1.5" cy="-1" r="1" fill="#ff1a42" class="spider-eye" />
+    </g>
+  </g>
+
+  <!-- Main Realistic Crawling Spider with Glowing Eyes -->
+  <g class="crawling-spider">
+    <!-- Long Realistic Legs Left -->
+    <path d="M0 6 Q -25 -15 -45 -5 M0 6 Q -28 -2 -48 18 M0 6 Q -22 15 -42 38 M0 6 Q -15 28 -30 52" stroke="#140205" stroke-width="2" stroke-linecap="round" fill="none" />
+    <!-- Long Realistic Legs Right -->
+    <path d="M0 6 Q 25 -15 45 -5 M0 6 Q 28 -2 48 18 M0 6 Q 22 15 42 38 M0 6 Q 15 28 30 52" stroke="#140205" stroke-width="2" stroke-linecap="round" fill="none" />
+    
+    <!-- Spider Body (Abdomen & Cephalothorax) -->
+    <ellipse cx="0" cy="14" rx="10" ry="14" fill="#070102" stroke="#250308" stroke-width="1"/>
+    <ellipse cx="0" cy="2" rx="7" ry="8" fill="#150205" />
+    
+    <!-- Aggressive Glowing Red Eyes -->
+    <circle cx="-2.5" cy="0" r="1.5" fill="#ff1a42" class="spider-eye" />
+    <circle cx="2.5" cy="0" r="1.5" fill="#ff1a42" class="spider-eye" style="animation-delay: 0.3s;" />
+    <circle cx="-4" cy="1" r="1" fill="#ff1a42" class="spider-eye" style="animation-delay: 0.5s;" />
+    <circle cx="4" cy="1" r="1" fill="#ff1a42" class="spider-eye" style="animation-delay: 0.2s;" />
   </g>
 </svg>
