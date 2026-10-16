@@ -27,12 +27,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,bootstrap,tailwind,git,github,vscode&theme=dark" alt="Tech Stack" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/axios-%23671ddf.svg?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="./spider-web.svg" alt="Animated spider web connecting my skills" width="100%" />
 
 </div>
 
