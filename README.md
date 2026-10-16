@@ -28,33 +28,17 @@
 
 - 🕸️ Core stack: **PHP · Laravel · React.js** — the strongest threads in my web.
 - 🕷️ I also haunt with **JavaScript, MySQL, Git** and modern web tooling.
-- 🕯️ Obsessed with elegant architecture, creepy-crawly clean code, and blood-red details.
-- 🚪 From Morocco, building immersive experiences behind every dark door.
-- 🏚️ Currently crafting new haunted projects, thread by thread.
+ About Me — The Web Weaver</h1>
 
 ---
 
-<!-- �═════════════ TECH STACK · CAUGHT IN THE WEB ══════════════ -->
+<!-- ══════════════ TECH STACK · CAUGHT IN THE WEB ══════════════ -->
 <h1 align="center">🕸️ Tech Stack — Caught in the Web</h1>
 
 <div align="center">
 
-<!-- 🕸️ Skills dangling inside a haunted spiderweb -->
-<img src="https://raw.githubusercontent.com/naimi123/naimi123/main/assets/spiderweb-stack.svg" width="100%" alt="Animated gothic spiderweb with PHP, Laravel, React, JavaScript, MySQL and Git dangling on threads, central spider with amber flashing eyes"/>
-
-<img src="https://img.shields.io/badge/PHP-12030A?style=for-the-badge&logo=php&logoColor=E11D48" alt="PHP"/>
-<img src="https://img.shields.io/badge/Laravel-12030A?style=for-the-badge&logo=laravel&logoColor=E11D48" alt="Laravel"/>
-<img src="https://img.shields.io/badge/React-12030A?style=for-the-badge&logo=react&logoColor=E11D48" alt="React"/>
-<img src="https://img.shields.io/badge/JavaScript-12030A?style=for-the-badge&logo=javascript&logoColor=E11D48" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/MySQL-12030A?style=for-the-badge&logo=mysql&logoColor=E11D48" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Git-12030A?style=for-the-badge&logo=git&logoColor=E11D48" alt="Git"/>
-<br/>
-<img src="https://img.shields.io/badge/HTML5-12030A?style=for-the-badge&logo=html5&logoColor=E11D48" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-12030A?style=for-the-badge&logo=css3&logoColor=E11D48" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-12030A?style=for-the-badge&logo=tailwindcss&logoColor=E11D48" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Composer-12030A?style=for-the-badge&logo=composer&logoColor=E11D48" alt="Composer"/>
-<img src="https://img.shields.io/badge/VS_Code-12030A?style=for-the-badge&logo=visualstudiocode&logoColor=E11D48" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Linux-12030A?style=for-the-badge&logo=linux&logoColor=E11D48" alt="Linux"/>
+<!-- 🕸️ Skills dangling inside a haunted spiderweb with real brand colors -->
+<img src="https://raw.githubusercontent.com/naimi123/naimi123/main/assets/spiderweb-stack.svg" width="100%" alt="Animated gothic spiderweb with PHP, Laravel, React, JavaScript, MySQL and Git badges hanging on threads in their real brand colors, central spider with amber flashing eyes"/>
 
 </div>
 
