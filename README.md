@@ -1,50 +1,47 @@
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--  🕷️  naimi123 · Mustapha Naimi · Spiderweb Portfolio README        -->
-<!--  Save assets/banner.svg & assets/spiderweb-stack.svg in this repo -->
+<!--  🏚️ naimi123 · Mustapha Naimi · Haunted House Gothic README      -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<!-- ════════════════════ HEADER · DARK SPIDERWEB ════════════════════ -->
+<!-- ══════════════ HEADER · HAUNTED HOUSE ══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:e11d48,45:9f1239,100:000000&reversal=false" width="100%" alt="Dark crimson waving header"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=naimi123&label=VISITORS&countColor=%23e11d48" alt="Visitors"/>
 
-<img src="https://raw.githubusercontent.com/naimi123/naimi123/main/assets/banner.svg" width="100%" alt="Animated spiderweb banner with a realistic fast moving spider and glowing red eyes"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:e11d48,45:9f1239,100:000000&reversal=false" width="100%" alt="Blood-red waving header"/>
+
+<img src="https://raw.githubusercontent.com/naimi123/naimi123/main/assets/banner.svg" width="100%" alt="Haunted house banner with gothic silhouettes, ghostly mist, and a spider dropping from a thread"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Mustapha+Naimi;Full-Stack+Web+Developer;Weaving+code+into+the+web+%F0%9F%95%B7%EF%B8%8F&font=JetBrains+Mono&weight=600&size=26&color=E11D48&center=true&vCenter=true&width=660&height=110&background=000000&pause=1300" alt="Typing SVG — Mustapha Naimi, Full-Stack Web Developer"/>
-</a>
-
-<a href="https://visitorbadge.io" target="_blank">
-  <img src="https://api.visitorbadge.io/api/visitors?path=naimi123&label=VISITORS&countColor=%23e11d48" alt="Visitors"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Mustapha+Naimi;Full-Stack+Web+Developer;Weaving+code+into+the+web+%F0%9F%95%B7%EF%B8%8F&font=JetBrains+Mono&weight=600&size=26&color=E11D48&center=true&vCenter=true&width=660&height=110&background=000000&pause=1300" alt="Typing SVG — Mustapha Naimi"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ════════════════════ ABOUT ME ════════════════════ -->
-<h1 align="left">🕷️ About Me</h1>
+<!-- ══════════════ ABOUT ME · GOTHIC VIBE ══════════════ -->
+<h1 align="left">🕷️ About Me — The Web Weaver</h1>
 
-🕸️ **Full-Stack Web Developer** from 🇲🇦 **Morocco** — weaving code into the web, one thread at a time.
+🕸️ **Full-Stack Web Developer** from 🇲🇦 **Morocco** — haunting the web with dark, immersive code.
 
-- 🕷️ Full-Stack Web Developer — spinning clean, scalable applications end to end.
-- 🕸️ Core stack: **PHP · Laravel · React.js** — my strongest threads in the web.
-- 🧵 I also weave with **JavaScript, MySQL, Git** and modern web tooling.
-- 🔴 Obsessed with elegant architecture, immersive dark UIs, and blood-red details.
-- 🌍 From Morocco, building for the web worldwide.
-- 🕯️ Currently crafting new projects and sharpening my craft, thread by thread.
+- 🕸️ Core stack: **PHP · Laravel · React.js** — the strongest threads in my web.
+- 🕷️ I also haunt with **JavaScript, MySQL, Git** and modern web tooling.
+- 🕯️ Obsessed with elegant architecture, creepy-crawly clean code, and blood-red details.
+- 🚪 From Morocco, building immersive experiences behind every dark door.
+- 🏚️ Currently crafting new haunted projects, thread by thread.
 
 ---
 
-<!-- ════════════════════ TECH STACK · SWINGING ON THE WEB ════════════════════ -->
+<!-- �═════════════ TECH STACK · CAUGHT IN THE WEB ══════════════ -->
 <h1 align="center">🕸️ Tech Stack — Caught in the Web</h1>
 
 <div align="center">
 
-<!-- 🕸️ Animated spiderweb: skills hanging inside a real web around a fast moving spider -->
-<img src="https://raw.githubusercontent.com/naimi123/naimi123/main/assets/spiderweb-stack.svg" width="100%" alt="Animated spiderweb with PHP, Laravel, React, JavaScript, MySQL and Git badges hanging on glowing threads around a fast realistic spider"/>
+<!-- 🕸️ Skills dangling inside a haunted spiderweb -->
+<img src="https://raw.githubusercontent.com/naimi123/naimi123/main/assets/spiderweb-stack.svg" width="100%" alt="Animated gothic spiderweb with PHP, Laravel, React, JavaScript, MySQL and Git dangling on threads, central spider with amber flashing eyes"/>
 
-<!-- 🧵 Woven badge grid -->
 <img src="https://img.shields.io/badge/PHP-12030A?style=for-the-badge&logo=php&logoColor=E11D48" alt="PHP"/>
 <img src="https://img.shields.io/badge/Laravel-12030A?style=for-the-badge&logo=laravel&logoColor=E11D48" alt="Laravel"/>
 <img src="https://img.shields.io/badge/React-12030A?style=for-the-badge&logo=react&logoColor=E11D48" alt="React"/>
@@ -63,8 +60,8 @@
 
 ---
 
-<!-- ════════════════════ GITHUB STATS · DARK / BLOOD-RED ════════════════════ -->
-<h1 align="center">🕸️ GitHub Stats — Caught in My Web</h1>
+<!-- ══════════════ GITHUB STATS · BLOOD-RED ══════════════ -->
+<h1 align="center">🕸️ GitHub Stats — Echoes from the Crypt</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naimi123&show_icons=true&hide_border=true&bg_color=000000&title_color=E11D48&text_color=E2E8F0&icon_color=E11D48&ring_color=9f1239" height="165" alt="GitHub stats"/>
@@ -77,8 +74,8 @@
 
 ---
 
-<!-- ════════════════════ CONNECT WITH ME ════════════════════ -->
-<h1 align="center">🕸️ Connect With Me</h1>
+<!-- ══════════════ CONNECT WITH ME ══════════════ -->
+<h1 align="center">🕸️ Connect With Me — Knock at the Door</h1>
 
 <div align="center">
 
@@ -96,11 +93,11 @@
 
 ---
 
-<!-- ════════════════════ FOOTER · WAVING CAPSULE ════════════════════ -->
+<!-- ══════════════ FOOTER · WAVING CAPSULE ══════════════ -->
 <div align="center">
 
-*Weaving the web, one thread at a time.* 🕷️🕸️
+*Some doors are meant to be opened.* 🕷️🕸️
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:9f1239,100:e11d48&section=footer" width="100%" alt="Dark red waving capsule footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:9f1239,100:e11d48&section=footer" width="100%" alt="Blood-red waving capsule footer"/>
 
 </div>
