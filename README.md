@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="./spider-web.svg" alt="Animated spider web connecting my skills" width="100%" />
+<img src="https://raw.githubusercontent.com/naimi123/naimi123/main/spider-web.svg" alt="Animated spider web connecting my skills" width="100%" />
 
 </div>
 
