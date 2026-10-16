@@ -24,7 +24,7 @@
 <!-- ══════════════ ABOUT ME · GOTHIC VIBE ══════════════ -->
 <h1 align="left"> About Me — The Web Weaver</h1>
 
-🕸️ **Full-Stack Web Developer** from 🇲🇦 **Morocco** — haunting the web with dark, immersive code.
+ **Full-Stack Web Developer** from 🇲🇦 **Morocco** — haunting the web with dark, immersive code.
 
 -  Core stack: **PHP · Laravel · React.js** — the strongest threads in my web.
 -  I also haunt with **JavaScript, MySQL, Git** and modern web tooling.
@@ -35,7 +35,7 @@
 ---
 
 <!-- ══════════════ TECH STACK · CAUGHT IN THE WEB ══════════════ -->
-<h1 align="center">🕸️ Tech Stack — Caught in the Web</h1>
+<h1 align="center">Tech Stack — Caught in the Web</h1>
 
 <div align="center">
 
