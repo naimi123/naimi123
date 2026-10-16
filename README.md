@@ -28,7 +28,9 @@
 
 - 🕸️ Core stack: **PHP · Laravel · React.js** — the strongest threads in my web.
 - 🕷️ I also haunt with **JavaScript, MySQL, Git** and modern web tooling.
- About Me — The Web Weaver</h1>
+- 🕯️ Obsessed with elegant architecture, creepy-crawly clean code, and blood-red details.
+- 🚪 From Morocco, building immersive experiences behind every dark door.
+- 🏚️ Currently crafting new haunted projects, thread by thread.
 
 ---
 
