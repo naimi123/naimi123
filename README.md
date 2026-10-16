@@ -1,16 +1,63 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0b0033,100:240046&height=260&section=header&text=Mustapha%20Naimi&fontSize=54&fontColor=E0AAFF&animation=twinkling&fontAlignY=38&desc=Exploring%20the%20universe%20of%20code&descSize=18&descAlignY=60&descColor=9D4EDD" alt="Header" /> <a href="https://github.com/naimi123"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&height=60&lines=Hello+Traveler%2C+I'm+Mustapha+Naimi+%F0%9F%9A%80;Full-Stack+Web+Developer;Building+Modern+Web+Applications;From+Morocco+to+the+stars+%E2%9C%A8" alt="Typing SVG" /> </a> <br/> <img src="https://komarev.com/ghpvc/?username=naimi123&style=for-the-badge&color=240046&label=VISITORS" alt="Profile Views" /> </div> <br/>
-🌌 About Me
-🪐 Building and improving projects with PHP, Laravel, React.js and modern web technologies.
-🛰️ Creating responsive, dynamic and user-friendly web apps, from frontend to backend.
-☄️ Constantly exploring new tools, frameworks and developer workflows.
-🇲🇦 Web developer & tech enthusiast from Morocco.
-🛸 Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,bootstrap,tailwind,git,github,vscode&theme=dark" alt="Tech Stack" />
+<div align="center">
 
-<br/><br/>
+<img src="assets/web-header.svg" alt="Spider web header" width="100%" />
 
-<img src="https://img.shields.io/badge/axios-%23671ddf.svg?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> </div>
-🔭 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=naimi123&show_icons=true&theme=midnight-purple&bg_color=000000&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimi123&theme=midnight-purple&background=000000&hide_border=true" alt="GitHub Streak" /> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimi123&bg_color=000000&color=C77DFF&line=7B2CBF&point=FFFFFF&area=true&area_color=240046&hide_border=true" alt="Activity Graph" /> </div>
-📡 Connect with Me
-<div align="center"> <a href="https://www.linkedin.com/in/mustapha-naimi-b832aa386" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:naimimustaphak@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:0b0033,100:000000&height=120&section=footer&animation=twinkling" alt="Footer" />
+<a href="https://github.com/naimi123">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F43F5E&center=true&vCenter=true&width=700&height=55&lines=Weaving+code+into+the+web+%F0%9F%95%B8%EF%B8%8F;Full-Stack+Web+Developer;Building+Modern+Web+Applications;Catching+bugs+in+my+web+%F0%9F%95%B7%EF%B8%8F" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=naimi123&style=for-the-badge&color=9f1239&label=VISITORS" alt="Profile Views" />
+
+</div>
+
+<img src="assets/web-divider.svg" alt="" width="100%" />
+
+## 🕷️ About Me
+
+- 🕸️ Building and improving projects with **PHP**, **Laravel**, **React.js** and modern web technologies.
+- 🕷️ Creating responsive, dynamic and user-friendly web apps, from frontend to backend.
+- 🌑 Constantly exploring new tools, frameworks and developer workflows.
+- 🇲🇦 Web developer & tech enthusiast from Morocco.
+
+<img src="assets/web-divider.svg" alt="" width="100%" />
+
+## 🕸️ Tech Stack
+
+<div align="center">
+  <img src="assets/web-tech.svg" alt="Tech stack hanging on a spider web" width="100%" />
+</div>
+
+<img src="assets/web-divider.svg" alt="" width="100%" />
+
+## 🩸 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=naimi123&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=E11D48&text_color=E2E8F0&icon_color=94A3B8" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naimi123&hide_border=true&background=000000&ring=E11D48&fire=E11D48&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=E11D48&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naimi123&bg_color=000000&color=E2E8F0&line=E11D48&point=FFFFFF&area=true&area_color=4C0519&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+<img src="assets/web-divider.svg" alt="" width="100%" />
+
+## 📡 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mustapha-naimi-b832aa386" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:naimimustaphak@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+<img src="assets/web-footer.svg" alt="Footer web" width="100%" />
