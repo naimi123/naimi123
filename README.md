@@ -37,13 +37,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=naimi123&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=E11D48&text_color=E2E8F0&icon_color=94A3B8" alt="GitHub Stats" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=naimi123&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=E11D48&text_color=E2E8F0&icon_color=94A3B8" alt="GitHub Stats" />
+  </p>
+  
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimi123&hide_border=true&background=000000&ring=E11D48&fire=E11D48&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=E11D48&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub Streak" />
+  </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naimi123&hide_border=true&background=000000&ring=E11D48&fire=E11D48&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=E11D48&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naimi123&bg_color=000000&color=E2E8F0&line=E11D48&point=FFFFFF&area=true&area_color=4C0519&hide_border=true" alt="Activity Graph" />
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimi123&bg_color=000000&color=E2E8F0&line=E11D48&point=FFFFFF&area=true&area_color=4C0519&hide_border=true" alt="Activity Graph" />
+  </p>
 
 </div>
 
