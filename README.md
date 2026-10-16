@@ -27,12 +27,13 @@
 <div align="center">
   <!-- Animated Rotating / Floating Tech Icons Grid -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506587dd.gif" width="150" align="right" alt="Animation" />
-      <img src="https://img.shields.io/badge/axios-%23671ddf.svg?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge" />
+  
   
   <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,bootstrap,tailwind,git,github,vscode" alt="Tech Stack Icons" />
     
-
+<br/>
+    <img src="https://img.shields.io/badge/axios-%23671ddf.svg?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge" />
   </p>
 </div>
 
