@@ -33,6 +33,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,bootstrap,tailwind,git,github,vscode" alt="Tech Stack Icons" />
     
 <br/>
+<br/>
     <img src="https://img.shields.io/badge/axios-%23671ddf.svg?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge" />
   </p>
 </div>
