@@ -8,7 +8,7 @@
   
   <!-- Animated Gradient Header for Name -->
   <a href="https://github.com/naimi123">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=70&lines=👋+Hello%2C+I'm+Mustapha+Naimi;💻+Full-Stack+Web+Developer;🚀+Building+Modern+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=70&lines=+Hello%2C+I'm+Mustapha+Naimi;+Full-Stack+Web+Developer;+Building+Modern+Web+Applications" alt="Typing SVG" />
   </a>
   
   <h3>A Passionate Web Developer & Tech Enthusiast from Morocco 🇲🇦</h3>
