@@ -11,7 +11,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:e11d48,45:9f1239,100:000000&reversal=false" width="100%" alt="Blood-red waving header"/>
 
-<img src="https://raw.githubusercontent.com/naimi123/naimi123/main/assets/banner.svg" width="100%" alt="Haunted house banner with gothic silhouettes, ghostly mist, and a spider dropping from a thread"/>
+<img src="https://raw.githubusercontent.com/naimi123/naimi123/main/assets/banner.svg?v=2" width="100%" alt="Haunted house banner with moon, flying bats, gothic mansion and a spider web"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Mustapha+Naimi;Full-Stack+Web+Developer;Weaving+code+into+the+web+%F0%9F%95%B7%EF%B8%8F&font=JetBrains+Mono&weight=600&size=26&color=E11D48&center=true&vCenter=true&width=660&height=110&background=000000&pause=1300" alt="Typing SVG — Mustapha Naimi"/>
@@ -40,7 +40,7 @@
 <div align="center">
 
 <!-- 🕸️ Skills dangling inside a haunted spiderweb with real brand colors -->
-<img src="https://raw.githubusercontent.com/naimi123/naimi123/main/assets/spiderweb-stack.svg" width="100%" alt="Animated gothic spiderweb with PHP, Laravel, React, JavaScript, MySQL and Git badges hanging on threads in their real brand colors, central spider with amber flashing eyes"/>
+<img src="https://raw.githubusercontent.com/naimi123/naimi123/main/assets/spiderweb-stack.svg?v=2" width="100%" alt="Animated gothic spiderweb with PHP, Laravel, React, JavaScript, TypeScript, MySQL, Git, Tailwind, Axios and Bootstrap badges swinging on threads in their real brand colors, central spider with glowing red eyes"/>
 
 </div>
 
@@ -55,7 +55,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimi123&bg_color=0x0d1117&color=0xe2e8f0&line=0xe11d48&point=0xe11d48&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimi123&bg_color=000000&color=e2e8f0&line=e11d48&point=e11d48&area=true&area_color=9f1239&hide_border=true&title=Mustapha's%20Contribution%20Web" alt="Mustapha's Contribution Web"/>
 </div>
 
 ---
@@ -71,7 +71,7 @@
 </a>
 
 <!-- ✉️ REPLACE "your.email@example.com" with your real email -->
-<a href="mailto:your.email@example.com">
+<a href="mailto:naimimustaphak@gmail.com">
   <img src="https://img.shields.io/badge/Email-Drop_me_a_thread-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mustapha Naimi"/>
 </a>
 
