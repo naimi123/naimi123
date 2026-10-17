@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/naimi123/naimi123/main/assets/spiderweb-stack.svg?v=3" width="100%" alt="Animated tech web with PHP, Laravel, React, JavaScript, TypeScript, MySQL, Git, Tailwind, Axios and Bootstrap badges"/>
+<img src="https://raw.githubusercontent.com/naimi123/naimi123/main/assets/spiderweb-stack.svg?v=3" width="100%" alt="Animated tech web with PHP, Laravel, React, JavaScript, TypeScript,css, MySQL, Git, Tailwind, Axios and Bootstrap badges"/>
 
 </div>
 
