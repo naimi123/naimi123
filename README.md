@@ -22,7 +22,7 @@
 ---
 
 <!-- ══════════════ ABOUT ME ══════════════ -->
-<h1 align="left">⚡ About Me</h1>
+<h1 align="left"> About Me</h1>
 
  **Full-Stack Web Developer** from 🇲🇦 **Morocco** — building sleek, modern web experiences.
 
@@ -34,7 +34,7 @@
 ---
 
 <!-- ══════════════ TECH STACK ══════════════ -->
-<h1 align="center">🧩 Tech Stack</h1>
+<h1 align="center"> Tech Stack</h1>
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 ---
 
 <!-- ══════════════ GITHUB STATS ══════════════ -->
-<h1 align="center">📊 GitHub Stats</h1>
+<h1 align="center"> GitHub Stats</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naimi123&show_icons=true&hide_border=true&bg_color=0B0B14&title_color=8B5CF6&text_color=E2E8F0&icon_color=06B6D4&ring_color=8B5CF6" height="165" alt="GitHub stats"/>
@@ -59,12 +59,12 @@
 ---
 
 <!-- ══════════════ CONNECT WITH ME ══════════════ -->
-<h1 align="center">📬 Connect With Me</h1>
+<h1 align="center">Connect With Me</h1>
 
 <div align="center">
 
 <!-- 🔗 REPLACE "your-linkedin-username" with your real LinkedIn handle -->
-<a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+<a href="Mustapha Naimi LinkedIn Profile" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Mustapha_Naimi-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Mustapha Naimi"/>
 </a>
 
