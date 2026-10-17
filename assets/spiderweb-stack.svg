@@ -1,3 +1,1 @@
-<tool_call>githubTool<arg_key>action</arg_key><arg_value>getContents</arg_value>　owner</arg_key><arg_value>naimi123</arg_value>　repo</arg_key><arg_value>naimi123</arg_value>　path</arg_key><arg_value>assets/spiderweb-stack.svg</arg_value>　contentsRef</arg_key><arg_value>design-updates</arg_value></tool_call>
-
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naimi123&bg_color=000000&color=e2e8f0&line=e11d48&point=e11d48&area=true&area_color=9f1239&hide_border=true&title=Mustapha's%20Contribution%20Web" alt="Mustapha's Contribution Web"/>
