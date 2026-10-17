@@ -63,14 +63,14 @@
 
 <div align="center">
 
-<!-- زر لينكد إن -->
+<!-- زر لينكد إن بتصميم تفاعلي واضح -->
 <a href="https://www.linkedin.com/in/mustapha-naimi-b832aa386/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mustapha_Naimi-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Mustapha Naimi"/>
+  <img src="https://img.shields.io/badge/🔗_Connect_on_LinkedIn-Mustapha_Naimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" style="border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"/>
 </a>
 
-<!-- زر البريد الإلكتروني -->
+<!-- زر البريد الإلكتروني بتصميم تفاعلي واضح -->
 <a href="mailto:naimimustaphak@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_in_touch-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mustapha Naimi"/>
+  <img src="https://img.shields.io/badge/✉️_Send_an_Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" style="border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"/>
 </a>
 
 </div>
