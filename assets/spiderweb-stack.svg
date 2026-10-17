@@ -1,3 +1,104 @@
-<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" x="0px" y="0px" viewBox="0 0 1000 1000">
-    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 660" width="1000" height="660" role="img" aria-label="Mustapha's spider web tech stack">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#1a0a0f"/>
+      <stop offset="100%" stop-color="#050508"/>
+    </radialGradient>
+    <radialGradient id="dew" cx="35%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#e2e8f0"/>
+      <stop offset="60%" stop-color="#94a3b8"/>
+      <stop offset="100%" stop-color="#e11d48" stop-opacity="0.6"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e11d48" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#e11d48" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1000" height="660" fill="url(#bg)"/>
+  <circle cx="500" cy="340" r="160" fill="url(#glow)"/>
+  <text x="500" y="42" font-family="Segoe UI, sans-serif" font-size="26" font-weight="700" fill="#e2e8f0" text-anchor="middle">🕸 Tech Stack</text>
+
+  <!-- radial silk threads -->
+  <g stroke="#e2e8f0" stroke-opacity="0.35" stroke-width="1.5">
+    <line x1="500" y1="340" x2="500" y2="90"/>
+    <line x1="500" y1="340" x2="647" y2="138"/>
+    <line x1="500" y1="340" x2="738" y2="263"/>
+    <line x1="500" y1="340" x2="738" y2="417"/>
+    <line x1="500" y1="340" x2="647" y2="542"/>
+    <line x1="500" y1="340" x2="500" y2="590"/>
+    <line x1="500" y1="340" x2="353" y2="542"/>
+    <line x1="500" y1="340" x2="262" y2="417"/>
+    <line x1="500" y1="340" x2="262" y2="263"/>
+    <line x1="500" y1="340" x2="353" y2="138"/>
+  </g>
+
+  <!-- sagging rings -->
+  <g fill="none" stroke-width="1.5">
+    <path d="M500,140 Q553,176 618,178 Q639,239 690,278 Q672,340 690,402 Q639,441 618,502 Q553,504 500,540 Q447,504 382,502 Q361,441 310,402 Q328,340 310,278 Q361,239 382,178 Q447,176 500,140 Z" stroke="#e2e8f0" stroke-opacity="0.5"/>
+    <path d="M500,200 Q537,226 582,227 Q597,269 633,297 Q620,340 633,383 Q597,411 582,453 Q537,454 500,480 Q463,454 418,453 Q403,411 367,383 Q380,340 367,297 Q403,269 418,227 Q463,226 500,200 Z" stroke="#e11d48" stroke-opacity="0.55"/>
+    <path d="M500,260 Q521,275 547,275 Q555,300 576,315 Q568,340 576,365 Q555,380 547,405 Q521,405 500,420 Q479,405 453,405 Q445,380 424,365 Q432,340 424,315 Q445,300 453,275 Q479,275 500,260 Z" stroke="#e2e8f0" stroke-opacity="0.5"/>
+  </g>
+
+  <!-- dew drops -->
+  <g fill="url(#dew)">
+    <circle cx="672" cy="300" r="6"><animate attributeName="opacity" values="0.35;1;0.35" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="612" cy="478" r="5"><animate attributeName="opacity" values="0.35;1;0.35" dur="5s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="403" cy="322" r="4.5"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.5s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="449" cy="229" r="5"><animate attributeName="opacity" values="0.35;1;0.35" dur="4.5s" begin="2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- spider -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 4; 0 0" dur="3s" repeatCount="indefinite"/>
+    <g fill="none" stroke="#e2e8f0" stroke-opacity="0.8" stroke-width="2.5" stroke-linecap="round">
+      <path d="M490,330 Q455,315 430,290"/>
+      <path d="M510,330 Q545,315 570,290"/>
+      <path d="M486,344 Q450,348 420,340"/>
+      <path d="M514,344 Q550,348 580,340"/>
+      <path d="M488,356 Q455,372 435,395"/>
+      <path d="M512,356 Q545,372 565,395"/>
+      <path d="M493,364 Q470,388 460,415"/>
+      <path d="M507,364 Q530,388 540,415"/>
+    </g>
+    <ellipse cx="500" cy="348" rx="24" ry="30" fill="#1a1a22" stroke="#e11d48" stroke-width="2"/>
+    <circle cx="500" cy="310" r="13" fill="#1a1a22" stroke="#e11d48" stroke-width="2"/>
+    <path d="M494,352 L500,344 L506,352 L500,362 Z" fill="#e11d48"/>
+    <circle cx="495" cy="306" r="3.5" fill="#e11d48"><animate attributeName="r" values="3.5;5;3.5" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="505" cy="306" r="3.5" fill="#e11d48"><animate attributeName="r" values="3.5;5;3.5" dur="2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- swinging language badges -->
+  <g font-family="Segoe UI, sans-serif" font-weight="600" font-size="17" text-anchor="middle">
+    <g><animateTransform attributeName="transform" type="rotate" values="0 500 140; 4 500 140; 0 500 140; -4 500 140; 0 500 140" dur="5s" repeatCount="indefinite"/>
+      <rect x="440" y="73" width="120" height="34" rx="17" fill="#12121a" fill-opacity="0.95" stroke="#777BB4" stroke-width="1.5"/>
+      <text x="500" y="96" fill="#777BB4">PHP</text></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="0 618 178; 4 618 178; 0 618 178; -4 618 178; 0 618 178" dur="6s" repeatCount="indefinite"/>
+      <rect x="587" y="121" width="120" height="34" rx="17" fill="#12121a" fill-opacity="0.95" stroke="#FF2D20" stroke-width="1.5"/>
+      <text x="647" y="144" fill="#FF2D20">Laravel</text></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="0 690 278; 4 690 278; 0 690 278; -4 690 278; 0 690 278" dur="4.5s" repeatCount="indefinite"/>
+      <rect x="678" y="246" width="120" height="34" rx="17" fill="#12121a" fill-opacity="0.95" stroke="#61DAFB" stroke-width="1.5"/>
+      <text x="738" y="269" fill="#61DAFB">React</text></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="0 690 402; 4 690 402; 0 690 402; -4 690 402; 0 690 402" dur="5.5s" repeatCount="indefinite"/>
+      <rect x="668" y="400" width="140" height="34" rx="17" fill="#12121a" fill-opacity="0.95" stroke="#F7DF1E" stroke-width="1.5"/>
+      <text x="738" y="423" fill="#F7DF1E">JavaScript</text></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="0 618 502; 4 618 502; 0 618 502; -4 618 502; 0 618 502" dur="6.5s" repeatCount="indefinite"/>
+      <rect x="587" y="525" width="120" height="34" rx="17" fill="#12121a" fill-opacity="0.95" stroke="#4479A1" stroke-width="1.5"/>
+      <text x="647" y="548" fill="#4479A1">MySQL</text></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="0 500 540; 4 500 540; 0 500 540; -4 500 540; 0 500 540" dur="5s" begin="1s" repeatCount="indefinite"/>
+      <rect x="440" y="573" width="120" height="34" rx="17" fill="#12121a" fill-opacity="0.95" stroke="#F05032" stroke-width="1.5"/>
+      <text x="500" y="596" fill="#F05032">Git</text></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="0 382 502; 4 382 502; 0 382 502; -4 382 502; 0 382 502" dur="4.8s" repeatCount="indefinite"/>
+      <rect x="283" y="525" width="140" height="34" rx="17" fill="#12121a" fill-opacity="0.95" stroke="#3178C6" stroke-width="1.5"/>
+      <text x="353" y="548" fill="#3178C6">TypeScript</text></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="0 310 402; 4 310 402; 0 310 402; -4 310 402; 0 310 402" dur="5.7s" repeatCount="indefinite"/>
+      <rect x="202" y="400" width="120" height="34" rx="17" fill="#12121a" fill-opacity="0.95" stroke="#06B6D4" stroke-width="1.5"/>
+      <text x="262" y="423" fill="#06B6D4">Tailwind</text></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="0 310 278; 4 310 278; 0 310 278; -4 310 278; 0 310 278" dur="6.2s" repeatCount="indefinite"/>
+      <rect x="202" y="246" width="120" height="34" rx="17" fill="#12121a" fill-opacity="0.95" stroke="#5A29E4" stroke-width="1.5"/>
+      <text x="262" y="269" fill="#5A29E4">Axios</text></g>
+    <g><animateTransform attributeName="transform" type="rotate" values="0 382 178; 4 382 178; 0 382 178; -4 382 178; 0 382 178" dur="5.3s" repeatCount="indefinite"/>
+      <rect x="293" y="121" width="120" height="34" rx="17" fill="#12121a" fill-opacity="0.95" stroke="#7952B3" stroke-width="1.5"/>
+      <text x="353" y="144" fill="#7952B3">Bootstrap</text></g>
+  </g>
 </svg>
