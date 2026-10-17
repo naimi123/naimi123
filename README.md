@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Mustapha_Naimi-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Mustapha Naimi"/>
 </a>
 
-<a href="mailto:naimimustaphak@gmail.com">
+<a href="naimimustaphak@gmail.com">
   <img src="https://img.shields.io/badge/Email-Get_in_touch-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mustapha Naimi"/>
 </a>
 
